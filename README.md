@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on MERN Stack.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Web
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zain-kazi-912b84264)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zain-kazi-912b84264) [Frontend Mentor](https://www.frontendmentor.io/profile/zainkazi)
 - ⚡ Fun fact: Play a Chess match with me.
 
 
