@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN Stack.
+- 🔭 I’m currently working on Typescript + React.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💼 Check out my portfolio: [Portfolio](https://resume-zainkazi.vercel.app)
 - 💬 Ask me about Web
